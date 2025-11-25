@@ -1,0 +1,304 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ooops All Oracles",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "marionette",
+      "xaan",
+      "chef_ooops all oracles_new",
+      "chef_ooops all oracles",
+      "clockmaker_ooops all oracles",
+      "knight_ooops all oracles",
+      "spy",
+      "dawn",
+      "leviathan"
+    ],
+    "otherNight": [
+      "oracle_ooops all oracles_new_new_new_new_new_new_new_new",
+      "oracle_ooops all oracles_new_new_new_new_new_new_new",
+      "oracle_ooops all oracles_new_new_new_new_new_new",
+      "oracle_ooops all oracles_new_new_new_new_new",
+      "oracle_ooops all oracles_new_new_new_new",
+      "oracle_ooops all oracles_new_new_new",
+      "oracle_ooops all oracles_new_new",
+      "oracle_ooops all oracles_new",
+      "scarletwoman",
+      "oracle_ooops all oracles",
+      "dusk",
+      "lunatic",
+      "xaan",
+      "tor_ooops all oracles",
+      "spy",
+      "dawn",
+      "plaguedoctor",
+      "leviathan"
+    ]
+  },
+  {
+    "id": "oracle_ooops all oracles_new_new_new_new_new_new",
+    "edition": "snv",
+    "name": "ORacle?",
+    "otherNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night, learn 2 players at least one of which is good.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new_new_new/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new_new_new/1.png"
+    ],
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+  },
+  {
+    "id": "knight_ooops all oracles",
+    "edition": "Ooops All Oracles",
+    "name": "NORacle",
+    "firstNightReminder": "Point to the two non-Demon players marked *KNOW*.",
+    "team": "townsfolk",
+    "reminders": [
+      "Know",
+      "Know"
+    ],
+    "setup": false,
+    "ability": "Each night, learn 2 players that are not evil.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/knight_ooops%20all%20oracles/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/knight_ooops%20all%20oracles/1.png"
+    ],
+    "flavor": "When a man lies, he murders some part of the world."
+  },
+  {
+    "id": "oracle_ooops all oracles_new_new_new",
+    "edition": "snv",
+    "name": "NANDacle",
+    "otherNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night, learn 2 players at least one of which is evil.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new/1.png"
+    ],
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+  },
+  {
+    "id": "oracle_ooops all oracles_new",
+    "edition": "snv",
+    "name": "XORacle",
+    "otherNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night, learn 2 players which do not share an alignment.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new/1.png"
+    ],
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+  },
+  {
+    "id": "oracle_ooops all oracles_new_new",
+    "edition": "snv",
+    "name": "XNORacle",
+    "otherNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night, learn 2 players which share an alignment.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new/1.png"
+    ],
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+  },
+  {
+    "id": "oracle_ooops all oracles_new_new_new_new_new_new_new_new",
+    "edition": "snv",
+    "name": "Dooracle",
+    "otherNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night, learn 2 players with evil nieghbors.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new_new_new_new_new/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new_new_new_new_new/1.png"
+    ],
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+  },
+  {
+    "id": "chef_ooops all oracles",
+    "edition": "Ooops All Oracles",
+    "name": "Devouracle",
+    "firstNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each Night, learn how many pairs of evil players there are.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/chef_ooops%20all%20oracles/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/chef_ooops%20all%20oracles/1.png"
+    ],
+    "flavor": "This evening's reservations seem odd. Never before has Mrs. Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+  },
+  {
+    "id": "clockmaker_ooops all oracles",
+    "edition": "snv",
+    "name": "Clocracle",
+    "firstNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night, learn how many steps the is Demon from its nearest Minion.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/clockmaker_ooops%20all%20oracles/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/clockmaker_ooops%20all%20oracles/1.png"
+    ],
+    "flavor": "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+  },
+  {
+    "id": "chef_ooops all oracles_new",
+    "edition": "tb",
+    "name": "Packle",
+    "firstNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each Night, learn how many pairs of good players there are.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/chef_ooops%20all%20oracles_new/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/chef_ooops%20all%20oracles_new/1.png"
+    ],
+    "flavor": "This evening's reservations seem odd. Never before has Mrs. Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+  },
+  {
+    "id": "oracle_ooops all oracles_new_new_new_new_new_new_new",
+    "edition": "snv",
+    "name": "Empathacle",
+    "otherNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night, you learn how many of your nirghbors are evil.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new_new_new_new/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new_new_new_new/1.png"
+    ],
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+  },
+  {
+    "id": "oracle_ooops all oracles_new_new_new_new_new",
+    "edition": "snv",
+    "name": "Stackle",
+    "otherNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night, you learn how many steps you are from the nearest demon.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new_new/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new_new/1.png"
+    ],
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+  },
+  {
+    "id": "oracle_ooops all oracles_new_new_new_new",
+    "edition": "snv",
+    "name": "Moracle",
+    "otherNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night*, you learn how many \"oracles\" (Townsfolk) are alive.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles_new_new_new_new/1.png"
+    ],
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+  },
+  {
+    "id": "oracle_ooops all oracles",
+    "edition": "Ooops All Oracles",
+    "name": "Ordinary Oracle",
+    "otherNightReminder": "Give a finger signal.",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night, you learn how many dead players are evil.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles/0.png",
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/oracle_ooops%20all%20oracles/1.png"
+    ],
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+  },
+  "lunatic",
+  "drunk",
+  "recluse",
+  "plaguedoctor",
+  "spy",
+  "marionette",
+  "scarletwoman",
+  "xaan",
+  "leviathan",
+  {
+    "id": "tor_ooops all oracles",
+    "edition": "loric",
+    "name": "Tor-acle",
+    "otherNightReminder": "If a player died tonight, show the *YOU ARE* info token, their character token, & a thumbs up or thumbs down.",
+    "team": "loric",
+    "reminders": [],
+    "setup": false,
+    "ability": "It is just Normal Tor. Players don't know their character or alignment. They learn them after they die.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/Corey-Segieth/Clockmaker.Script.OoopsAllOracles/main/token/tor_ooops%20all%20oracles/0.png"
+    ],
+    "flavor": "With thunder as my voice and lightning as my blade, I, the eternal guardian, feast upon the fools who dare approach the forbidden gate. Behold, my sacred goal! To purge the beetle from the belly of the rocky earth, to ensnare it in a net of stars, on the hilltop where heaven meets earth."
+  }
+]
